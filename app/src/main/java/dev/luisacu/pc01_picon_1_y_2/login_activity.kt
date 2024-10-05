@@ -1,5 +1,6 @@
 package dev.luisacu.pc01_picon_1_y_2
 
+import android.content.Intent
 import android.content.SharedPreferences
 import android.os.Bundle
 import android.widget.Button
@@ -44,6 +45,8 @@ class login_activity : AppCompatActivity() {
 
             // Mostrar un mensaje de éxito
             Toast.makeText(this, "Login exitoso", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, MainActivity::class.java)
+            startActivity(intent)
         } else {
             // Mostrar un mensaje de error
             Toast.makeText(this, "Credenciales incorrectas", Toast.LENGTH_SHORT).show()

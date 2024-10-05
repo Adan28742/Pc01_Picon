@@ -14,4 +14,11 @@
     <string name="textemail">Enter email</string>
     <string name="enterpassword">Enter Password</string>
     <string name="txtbtn">LOGIN</string>
+    <string name="Playerstext">Players</string>
+    <string name="platext">PLAYERS</string>
+    <string name="rendtext">RENDIMIENTO</string>
+    <string name="renndimitext">Rendimiento</string>
+    <string name="rtext">Rendimiento</string>
+    <string name="nav_players">Players</string>
+    <string name="nav_rend">Rendimiento</string>
 </resources>
