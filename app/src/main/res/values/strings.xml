@@ -21,4 +21,7 @@
     <string name="rtext">Rendimiento</string>
     <string name="nav_players">Players</string>
     <string name="nav_rend">Rendimiento</string>
+    <string name="nav_equip">Equipos</string>
+    <string name="Equihome">Equipo</string>
+    <string name="textequipofut">Equipos</string>
 </resources>

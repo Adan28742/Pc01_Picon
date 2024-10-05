@@ -9,7 +9,7 @@
     <fragment
         android:id="@+id/nav_home"
         android:name="dev.luisacu.pc01_picon_1_y_2.ui.home.HomeFragment"
-        android:label="@string/menu_home"
+        android:label="@string/Equihome"
         tools:layout="@layout/fragment_home" />
 
     <fragment
